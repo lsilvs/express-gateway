@@ -74,6 +74,7 @@
     "express": "^4.16.3",
     "express-rate-limit": "^2.11.0",
     "express-session": "^1.15.6",
+    "express-ws": "^4.0.0",
     "find-up": "^3.0.0",
     "http-proxy": "^1.17.0",
     "ioredis": "^3.2.2",
